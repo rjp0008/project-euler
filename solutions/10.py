@@ -1,6 +1,7 @@
 import math,sys
 
 #using reference from http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+#sadly this is broken, most likely culprit is an off by one error on indexes
 def listOfPrimes(limit):
 	primes = []
 	finalList = []
