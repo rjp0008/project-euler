@@ -11,5 +11,8 @@ def makepath(matrix,runningTotal):
 	xPos = 0
 	yPos = 0
 	for y in range(len(matrix[0])):
-		if matrix[0][
+		if matrix[y][0] == 1:
+			for x in range(len(matrix[0])):
+				if matrix[y][x] == 1:
+					paths = paths + 
 		
