@@ -7,8 +7,8 @@ UPPER_LIMIT = 4000000
 counter = 3
 
 #change the conditional to check for 1000 digits
-#while SecondNumber < UPPER_LIMIT:
 while len(str(SecondNumber)) < 1000:
+#while SecondNumber < UPPER_LIMIT:
 	counter = counter + 1
 	temp = SecondNumber
 	SecondNumber = FirstNumber + SecondNumber
