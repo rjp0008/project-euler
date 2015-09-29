@@ -6,7 +6,7 @@ import (
 )
 
 func IsPrime(input int) bool {
-	if input < 0{
+	if input < 0 {
 		return false
 	}
 	if input%2 == 0 {
@@ -21,13 +21,13 @@ func IsPrime(input int) bool {
 }
 
 func PrimeCounter(a int, b int) int {
-	
-	for count := 0;;count++{
+
+	for count := 0; ; count++ {
 		nSquared := count * count
 		if !(IsPrime(nSquared + (count * a) + b)) {
 			return count
 		}
-		
+
 	}
 }
 
