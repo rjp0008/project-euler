@@ -29,4 +29,5 @@ for word in wordlist:
         test = char_as_int_value(letter) + test
     if is_triangle_number(test):
         triangleWordCounter = triangleWordCounter + 1
-print triangleWordCounter
+
+print (triangleWordCounter)
