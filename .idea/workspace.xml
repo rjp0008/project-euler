@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6db0bed0-d6c2-48bd-87b1-4a0e80cf3241" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/project-euler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-euler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/41-50/44.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/41-50/44.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +38,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/solutions/41-50/44.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+                <state relative-caret-position="459">
+                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
                   <folding>
                     <element signature="e#0#11#0" expanded="true" />
                   </folding>
@@ -114,8 +116,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$USER_HOME$/source/repos/rjp0008/ga-tech/cpda/hw4/hw4.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-51">
-                  <caret selection-end-line="2" />
+                <state relative-caret-position="369">
+                  <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
                   <folding>
                     <element signature="e#0#35#0" expanded="true" />
                   </folding>
@@ -150,6 +152,7 @@
         <option value="$PROJECT_DIR$/solutions/91-100/92.py" />
         <option value="$PROJECT_DIR$/solutions/61-70/63.py" />
         <option value="$PROJECT_DIR$/solutions/41-50/44.py" />
+        <option value="$USER_HOME$/source/repos/rjp0008/ga-tech/cpda/hw4/hw4.py" />
       </list>
     </option>
   </component>
@@ -231,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.44">
+  <component name="RunManager" selected="Python.hw4">
     <configuration name="44" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project-euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,8 +354,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.44" />
         <item itemvalue="Python.hw4" />
+        <item itemvalue="Python.44" />
         <item itemvalue="Python.moreSand" />
         <item itemvalue="Python.63" />
         <item itemvalue="Python.56" />
@@ -369,15 +372,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505064067374</updated>
-      <workItem from="1572494891193" duration="1978000" />
+      <workItem from="1572494891193" duration="3622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1978000" />
+    <option name="totallyTimeSpent" value="3622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.078267775" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -385,8 +389,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32943925" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32788163" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943925" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32788163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39984164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,8 +413,8 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/project_euler$hw4.coverage" NAME="hw4 Coverage Results" MODIFIED="1572496482899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/source/repos/rjp0008/ga-tech/cpda/hw4" />
-    <SUITE FILE_PATH="coverage/project_euler$44.coverage" NAME="44 Coverage Results" MODIFIED="1572497202394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/41-50" />
+    <SUITE FILE_PATH="coverage/project_euler$hw4.coverage" NAME="hw4 Coverage Results" MODIFIED="1572498365421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/source/repos/rjp0008/ga-tech/cpda/hw4" />
+    <SUITE FILE_PATH="coverage/project_euler$44.coverage" NAME="44 Coverage Results" MODIFIED="1572498152399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/41-50" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/solutions/51-60/59.py">
@@ -469,22 +473,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/source/repos/rjp0008/ga-tech/cpda/hw4/hw4.py">
+    <entry file="file://$PROJECT_DIR$/solutions/41-50/44.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/41-50/44.py">
+    <entry file="file://$USER_HOME$/source/repos/rjp0008/ga-tech/cpda/hw4/hw4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="369">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
